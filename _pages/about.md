@@ -43,7 +43,7 @@ Drawing inspiration from cross-domain cooperation, we aim to revolutionize the w
   * Talk at the Department of Civil, Environmental and Construction Engineering, The University of Central Florida, April 11, 2023.
   * Talk at the Polytechnic School, Arizona State University, March 27, 2023.
   * Talk at the Department of Mechanical Engineering and Engineering Science, The University of North Carolina at Charlotte, March 11, 2023.
-  * Talk at the Department of Department of Civil and Environmental Engineering, The University of Southern California, March 1, 2023.
-  * Talk at the Department of Department of Industrial and Manufacturing Systems, The University of Hong Kong, February 21, 2023.
+  * Talk at the Department of Civil and Environmental Engineering, The University of Southern California, March 1, 2023.
+  * Talk at the Department of Industrial and Manufacturing Systems, The University of Hong Kong, February 21, 2023.
   * Talk at the Department of Civil & Environmental Engineering, The University of Wisconsin–Madison, February 8, 2022.
     
