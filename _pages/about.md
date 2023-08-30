@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor at Arizona State University. As a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), I research the Internet of Things to build intelligent transportation infrastructure. I am also a principal investigator who has been leaving connected-vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). I received my Ph.D. in Mechanical Engineering from MIT in 2020, supervised by Prof. [Sanjay Sarma](https://scholar.google.com/citations?user=r9UmpGUAAAAJ&hl=en). During my postdoc training, I also worked with Prof. [Jinhua Zhao](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en) and Prof. [Cathy Wu](https://scholar.google.com/citations?user=wyjZbeMAAAAJ&hl=en) on autonomy and mobility systems. 
+I am an incoming Assistant Professor at Arizona State University. As a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), I research the Internet of Things to build intelligent transportation infrastructure. I am also a principal investigator leading connected-vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). I received my Ph.D. in Mechanical Engineering from MIT in 2020, supervised by Prof. [Sanjay Sarma](https://scholar.google.com/citations?user=r9UmpGUAAAAJ&hl=en). During my postdoc training, I also worked with Prof. [Jinhua Zhao](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en) and Prof. [Cathy Wu](https://scholar.google.com/citations?user=wyjZbeMAAAAJ&hl=en) on autonomy and mobility systems. 
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
@@ -40,10 +40,10 @@ Drawing inspiration from cross-domain cooperation, we aim to revolutionize the w
 
 ## Invited Talks 
 
-  * Talk at the Department of Civil, Environmental and Construction Engineering, The University of Central Florida, March 2023.
-  * Talk at the Polytechnic School, Arizona State University, March 2023.
-  * Talk at the Department of Mechanical Engineering and Engineering Science, The University of North Carolina at Charlotte, March 2023.
-  * Talk at the Department of Department of Civil and Environmental Engineering, The University of Southern California, March 2023.
-  * Talk at the Department of Department of Industrial and Manufacturing Systems, The University of Hong Kong, February 2023.
-  * Talk at the Department of Civil & Environmental Engineering, The University of Wisconsin–Madison, February 2022.
+  * Talk at the Department of Civil, Environmental and Construction Engineering, The University of Central Florida, April 11, 2023.
+  * Talk at the Polytechnic School, Arizona State University, March 27, 2023.
+  * Talk at the Department of Mechanical Engineering and Engineering Science, The University of North Carolina at Charlotte, March 11, 2023.
+  * Talk at the Department of Department of Civil and Environmental Engineering, The University of Southern California, March 1, 2023.
+  * Talk at the Department of Department of Industrial and Manufacturing Systems, The University of Hong Kong, February 21, 2023.
+  * Talk at the Department of Civil & Environmental Engineering, The University of Wisconsin–Madison, February 8, 2022.
     
