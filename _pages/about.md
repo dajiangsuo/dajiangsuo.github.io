@@ -11,6 +11,7 @@ redirect_from:
 Dajiang Suo is an incoming Assistant Professor at Arizona State University. As a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), Suo researches the Internet of Things to build intelligent transportation infrastructure. He is also a principal investigator who has been leaving connected-vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). Dr. Suo obtained a Ph.D. in Mechanical Engineering from MIT in 2020.
 
 Before returning to school to pursue a Ph.D. degree, Suo was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. He also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
+
 Open Positions
 ------
 I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives. 
