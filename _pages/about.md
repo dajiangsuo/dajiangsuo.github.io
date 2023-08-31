@@ -14,7 +14,8 @@ Before returning to school to pursue a Ph.D. degree, I was with the vehicle cont
 
 ## Open Positions
 
-I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives. 
+  * I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives.
+  * We warmly welcome visiting scholars for collaboration. For inquiries and opportunities, contact Dr. [Suo](mailto:dajiang.suo@asu.edu).
 
 
 Cyber-Resilient Electrified and Automated Transportation Engineering (CREATE) Lab at ASU (upcoming)
