@@ -16,9 +16,9 @@ Open Positions
 ------
 I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives. 
 
-<span style="color:green;font-weight:700;font-size:20px">
-Cyber-Resilient Electrified and Automated Transportation Engineering (CREATE) Lab at ASU （upcoming)
-</span>
+```diff
+! Cyber-Resilient Electrified and Automated Transportation Engineering (CREATE) Lab at ASU （upcoming)
+```
 ------
 From the visionary sketches of Leonardo da Vinci in the 15th century to today's cutting-edge technologies, the human pursuit of autonomy has been an enduring and ever-evolving endeavor. The world has seen significant strides in designing vehicles that can navigate themselves in varying conditions. Yet, in the CREAT Research Lab at ASU, we posit an intriguing question: What if, instead of solely perfecting the vehicles, we enhanced the environment they operate within? This is where our concept of 'smart roads' comes into play.
 
