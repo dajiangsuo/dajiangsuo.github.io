@@ -12,12 +12,12 @@ I am an incoming Assistant Professor at Arizona State University. As a research 
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
-`Open Positions`
+## `Open Positions`
 
 I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives. 
 
 
-`C`yber-`R`esilient `E`lectrified and `A`utomated `T`ransportation `E`ngineering (CREATE) Lab at ASU （upcoming)
+`Cyber-Resilient Electrified and Automated Transportation Engineering (CREATE) Lab at ASU (upcoming)'
 ------
 From the visionary sketches of Leonardo da Vinci in the 15th century to today's cutting-edge technologies, the human pursuit of autonomy has been an enduring and ever-evolving endeavor. The world has seen significant strides in designing vehicles that can navigate themselves in varying conditions. Yet, in the CREAT Research Lab at ASU, we posit an intriguing question: What if, instead of solely perfecting the vehicles, we enhanced the environment they operate within? This is where our concept of 'smart roads' comes into play.
 
