@@ -18,7 +18,7 @@ Before returning to school to pursue a Ph.D. degree, I was with the vehicle cont
   * We warmly welcome visiting scholars for collaboration. For inquiries and opportunities, contact Dr. [Suo](mailto:dajiang.suo@asu.edu).
 
 
-## Smart Roads vs. Smart Cars
+## Research Philosophy: Smart Roads vs. Smart Cars
 ------
 From the visionary sketches of Leonardo da Vinci in the 15th century to today's cutting-edge technologies, the human pursuit of autonomy has been an enduring and ever-evolving endeavor. The world has seen significant strides in designing vehicles that can navigate themselves in varying conditions. Yet, in the CREAT Research Lab at ASU, we posit an intriguing question: What if, instead of solely perfecting the vehicles, we enhanced the environment they operate within? This is where our concept of 'smart roads' comes into play.
 
