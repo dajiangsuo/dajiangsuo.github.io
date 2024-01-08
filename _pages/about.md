@@ -12,7 +12,7 @@ I am an Assistant Professor at Arizona State University. Before that, I was a re
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
-While at ASU, I was devoted to research and teaching in various smart city-related areas, including transportation and beyond. For instance, I designed a new IoT course (ASU EGR 304), which delves into leveraging emerging IoT and sensing technologies to enhance safety and productivity in construction sites, highlighting the breadth of my research interests in smart cities.
+While at ASU, I was devoted to research and teaching in various smart city-related areas, including transportation and beyond. For instance, I designed a new IoT course ([ASU EGR 304](https://www.dropbox.com/scl/fi/oqrymr9s5thxfzjkt0cai/project_description.pdf?rlkey=67fa9uzczxn11uzg7ziorx9uz&dl=0)), which delves into leveraging emerging IoT and sensing technologies to enhance safety and productivity in construction sites, highlighting the breadth of my research interests in smart cities.
 
 ## Open Positions
 
