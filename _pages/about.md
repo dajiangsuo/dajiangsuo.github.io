@@ -37,6 +37,7 @@ Drawing inspiration from cross-domain cooperation, we aim to revolutionize the w
 :   Suo, D., Li, H., Bhattacharyya, R., Melià-Seguí, J. and Sarma, S., 2023. RF-enhanced Pavement Markings for Mobile Robot Lane Detection. In 2023 IEEE International Conference on Automation Science and Engineering.
 
 ## Teaching 
+  * Instructor, ASU EGR 304 [Embedded System Design Project I-IoT&Smart Construction](https://www.dropbox.com/scl/fi/oqrymr9s5thxfzjkt0cai/project_description.pdf?rlkey=67fa9uzczxn11uzg7ziorx9uz&dl=0), 2024 Spring.
   * Postdoc Teaching Fellow, MIT 1.200 [Transportation: Foundations and Methods](http://student.mit.edu/catalog/m1b.html), 2021 Fall.
   * Postdoc Teaching Fellow, MIT 1.200 [Transportation: Foundations and Methods](http://student.mit.edu/catalog/m1b.html), 2023 Spring.
 
