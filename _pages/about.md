@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor at Arizona State University. As a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), I research the Internet of Things to build intelligent transportation infrastructure. I am also a principal investigator leading connected-vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). I received my Ph.D. in Mechanical Engineering from MIT in 2020, supervised by Prof. [Sanjay Sarma](https://scholar.google.com/citations?user=r9UmpGUAAAAJ&hl=en). During my postdoc training, I also worked with Prof. [Jinhua Zhao](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en) and Prof. [Cathy Wu](https://scholar.google.com/citations?user=wyjZbeMAAAAJ&hl=en) on autonomy and mobility systems. 
+I am an Assistant Professor at Arizona State University. Before that, I was a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), researching the Internet of Things to build intelligent transportation infrastructure. I was also a principal investigator leading infrastructure sensing and connected vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). I received my Ph.D. in Mechanical Engineering from MIT in 2020, supervised by Prof. [Sanjay Sarma](https://scholar.google.com/citations?user=r9UmpGUAAAAJ&hl=en). During my postdoc training, I also worked with Prof. [Jinhua Zhao](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en) and Prof. [Cathy Wu](https://scholar.google.com/citations?user=wyjZbeMAAAAJ&hl=en) on autonomy and mobility systems. 
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
+While at ASU, I was devoted to research and teaching in various smart city-related areas, including transportation and beyond. For instance, I designed a new IoT course (ASU EGR 304), which delves into leveraging emerging IoT and sensing technologies to enhance safety and productivity in construction sites, highlighting the breadth of my research interests in smart cities.
+
 ## Open Positions
 
-  * I am looking for Ph.D. applicants to work on connected vehicle cyber-security, vehicle-infrastructure cooperation, and smart city sensing. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives.
+  * I am looking for Ph.D. applicants to work on the Internet of Things, intelligent transportation infrastructure, and multimodal sensing for smart city applications. If you are interested in joining us, please send me an [email](mailto:dajiang.suo@asu.edu) with your CV and a brief statement about your research objectives.
   * We warmly welcome visiting scholars for collaboration. For inquiries and opportunities, contact Dr. [Suo](mailto:dajiang.suo@asu.edu).
 
 
