@@ -12,7 +12,7 @@ I am an Assistant Professor at Arizona State University. Before that, I was a re
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
-While at ASU, I was devoted to research and teaching in various smart city-related areas, including transportation and beyond. For instance, in the IoT-focused course I am teaching in Spring 2024 ([ASU EGR 304](https://www.dropbox.com/scl/fi/oqrymr9s5thxfzjkt0cai/project_description.pdf?rlkey=67fa9uzczxn11uzg7ziorx9uz&dl=0)), I integrate modules that explore the use of emerging IoT and sensing technologies to improve safety and productivity on construction sites, highlighting the breadth of my research interests in smart cities.
+While at ASU, I was devoted to research and teaching in various IoT-related areas, including transportation and beyond. For instance, in the IoT-focused course I am teaching in Spring 2024 ([ASU EGR 304](https://www.dropbox.com/scl/fi/oqrymr9s5thxfzjkt0cai/project_description.pdf?rlkey=67fa9uzczxn11uzg7ziorx9uz&dl=0)), I integrate modules that explore the use of emerging IoT and sensing technologies to improve safety and productivity on construction sites, highlighting the breadth of my research interests in smart cities.
 
 ## Open Positions
 
@@ -20,25 +20,26 @@ While at ASU, I was devoted to research and teaching in various smart city-relat
   * We warmly welcome visiting scholars for collaboration. For inquiries and opportunities, contact Dr. [Suo](mailto:dajiang.suo@asu.edu).
 
 
-## Research Philosophy: Smart Roads vs. Smart Cars
+## Research Philosophy: Empowering Autonomous Systems through Smart Infrastructure
 ------
-From the visionary sketches of Leonardo da Vinci in the 15th century to today's cutting-edge technologies, the human pursuit of autonomy has been an enduring and ever-evolving endeavor. The world has seen significant strides in designing vehicles that can navigate themselves in varying conditions. Yet, in the CREAT Research Lab at ASU, we posit an intriguing question: What if, instead of solely perfecting the vehicles, we enhanced the environment they operate within? This is where our concept of 'smart roads' comes into play.
+From the visionary sketches of Leonardo da Vinci in the 15th century to today's cutting-edge technologies, the human pursuit of autonomy has been an enduring and ever-evolving endeavor. The world has seen significant strides in designing ground and aerial vehicles capable of self-navigation under varying conditions. At the CREAT Research Lab at ASU, we explore a compelling question: What if, instead of focusing solely on perfecting the autonomous systems, we enhanced the environments in which they operate? This is where our concept of 'smart infrastructure' becomes vital.
 
-Drawing inspiration from cross-domain cooperation, we aim to revolutionize the way autonomous vehicles interact with their surroundings. By investing in intelligent road infrastructure, we may potentially alleviate the need for vehicles to be equipped with perfect sensing systems, thus presenting a cost-effective and holistic approach to full autonomy.
+Inspired by cross-domain collaboration, our research seeks to transform the interaction between unmanned ground (UGVs) and aerial vehicles (UAVs) and their surroundings. By developing intelligent infrastructure, we enable a more seamless, reliable, and efficient operation of autonomous systems under off-nominal scenarios. This approach not only complements and supports the evolution of on-vehicle intelligence but also provides a cost-effective path for vehicles to achieve full autonomy.
 
 ## Selected Publications
 
-#Connected vehicle cyber-security
+#Transportation cybersecurity
 :   Suo, D., Mo, B., Zhao, J. and Sarma, S.E., 2023. Proof of Travel for Trust-Based Data Validation in V2I Communication. IEEE Internet of Things Journal.
 :   Suo, D., Moore, J., Boesch, M., Post, K. and Sarma, S.E., 2020. Location-based schemes for mitigating cyber threats on connected and automated vehicles: a survey and design framework. IEEE Transactions on Intelligent Transportation Systems, 23(4), pp.2919-2937.
 
-#Vehicle-Infrastructure Collective Perception
-:   Qu, A., Huang, X. and Suo, D., 2023. SEIP: Simulation-based Design and Evaluation of Infrastructure-based Collective Perception. arXiv preprint arXiv:2305.17892.
+#Infrastructure-assisted sensing
+:   Qu, A., Huang, X. and Suo, D., 2023, September. SEIP: Simulation-based design and evaluation of infrastructure-based collective perception. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3871-3878). IEEE.
 
-#Zero Energy Vehicle-to-Infracture Communication
-:   Suo, D., Li, H., Bhattacharyya, R., Melià-Seguí, J. and Sarma, S., 2023. RF-enhanced Pavement Markings for Mobile Robot Lane Detection. In 2023 IEEE International Conference on Automation Science and Engineering.
+#Vehicle-to-Infracture Communication
+:   Suo, D., Li, H., Bhattacharyya, R., Wang, Z., Ding, S., Zheng, O., Valderas, D., Melià-Seguí, J., Abdel-Aty, M. and Sarma, S.E., 2023. RF-Enhanced Road Infrastructure for Intelligent Transportation. arXiv preprint arXiv:2311.00280.
 
 ## Teaching 
+  * Instructor, ASU EGR 598 [Advanced Sensing & Computing for Intelligent Transportation](https://www.dropbox.com/scl/fi/gttnr2doj9uuxiaowfzrj/syllabus-EGR598_Fall2024-Suo.pdf?rlkey=0r176z4nq2aybd5y3hc6du7cf&st=u0doqpz5&dl=0), 2024 Fall.
   * Instructor, ASU EGR 304 [Embedded System Design Project I (IoT&Smart Construction)](https://www.dropbox.com/scl/fi/oqrymr9s5thxfzjkt0cai/project_description.pdf?rlkey=67fa9uzczxn11uzg7ziorx9uz&dl=0), 2024 Spring.
   * Postdoc Teaching Fellow, MIT 1.200 [Transportation: Foundations and Methods](http://student.mit.edu/catalog/m1b.html), 2021 Fall.
   * Postdoc Teaching Fellow, MIT 1.200 [Transportation: Foundations and Methods](http://student.mit.edu/catalog/m1b.html), 2023 Spring.
