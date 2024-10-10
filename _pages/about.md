@@ -33,6 +33,7 @@ Inspired by cross-domain collaboration, our research seeks to transform the inte
 :   Suo, D., Moore, J., Boesch, M., Post, K. and Sarma, S.E., 2020. Location-based schemes for mitigating cyber threats on connected and automated vehicles: a survey and design framework. IEEE Transactions on Intelligent Transportation Systems, 23(4), pp.2919-2937.
 
 #Infrastructure-assisted sensing
+:   Ding, S., Tang, Y., De Vincenzi, M. and Suo, D., 2024. High and Low Resolution Tradeoffs in Roadside Multimodal Sensing. arXiv preprint arXiv:2410.01250.
 :   Qu, A., Huang, X. and Suo, D., 2023, September. SEIP: Simulation-based design and evaluation of infrastructure-based collective perception. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3871-3878). IEEE.
 
 #Vehicle-to-Infracture Communication
