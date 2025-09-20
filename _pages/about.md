@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Autonomous Sensing and Resilient Connectivity (ARC) Lab"
+title: "Autonomous Sensing and Resilient Connectivity Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
