@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Autonomous Sensing and Resilient Connectivity (ARC) Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -50,24 +50,20 @@ Inspired by cross-domain collaboration, our research seeks to transform the inte
 #Transportation cybersecurity
 :   De Vincenzi, M., Sun, S., Zhang, C.B.C., Garcia, M., Ding, S., Bodei, C., Matteucci, I., Sarma, S.E. and Suo, D., 2025. Vehicular Communication Security: Multi-Channel and Multi-Factor Authentication. IEEE Transactions on Vehicular Technology, https://ieeexplore.ieee.org/document/11123165.
 {: style="text-align:justify; text-justify:inter-word;"}
-
 :   Suo, D., Moore, J., Boesch, M., Post, K. and Sarma, S.E., 2020. Location-based schemes for mitigating cyber threats on connected and automated vehicles: a survey and design framework. IEEE Transactions on Intelligent Transportation Systems, 23(4), pp.2919-2937.
 {: style="text-align:justify; text-justify:inter-word;"}
 
 #Multimodal sensing
 :   Ding, S., Tang, Y., De Vincenzi, M. and Suo, D., 2024. High and Low Resolution Tradeoffs in Roadside Multimodal Sensing. arXiv preprint arXiv:2410.01250.
 {: style="text-align:justify; text-justify:inter-word;"}
-
 :   Qu, A., Huang, X. and Suo, D., 2023, September. SEIP: Simulation-based design and evaluation of infrastructure-based collective perception. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3871-3878). IEEE.
 {: style="text-align:justify; text-justify:inter-word;"}
-
 :   He, Y., Suo, D., Cao, P. and Liu, X., 2025. Optimizing roadside LiDAR beam distribution to enhance vehicle detection performance considering dynamic vehicle occlusion effects. Transportation Research Part C: Emerging Technologies, 179, p.105268.
 {: style="text-align:justify; text-justify:inter-word;"}
 
 #Vehicle-to-Infracture Communication
-:   :   Suo, D., Mo, B., Zhao, J. and Sarma, S.E., 2023. Proof of Travel for Trust-Based Data Validation in V2I Communication. IEEE Internet of Things Journal.
+:   Suo, D., Mo, B., Zhao, J. and Sarma, S.E., 2023. Proof of Travel for Trust-Based Data Validation in V2I Communication. IEEE Internet of Things Journal.
 {: style="text-align:justify; text-justify:inter-word;"}
-
 :   Suo, D., Li, H., Bhattacharyya, R., Wang, Z., Ding, S., Zheng, O., Valderas, D., Melià-Seguí, J., Abdel-Aty, M. and Sarma, S.E., 2023. RF-Enhanced Road Infrastructure for Intelligent Transportation. arXiv preprint arXiv:2311.00280.
 {: style="text-align:justify; text-justify:inter-word;"}
 
