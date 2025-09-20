@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:justify; text-justify:inter-ideograph;">
 I am an Assistant Professor at Arizona State University. Before that, I was a research scientist at [MIT Auto-ID Lab](https://autoid.mit.edu/), researching the Internet of Things to build intelligent transportation infrastructure. I was also a principal investigator leading infrastructure sensing and connected vehicle research projects at [MIT Mobility Initiative](https://www.mmi.mit.edu/research). I received my Ph.D. in Mechanical Engineering from MIT in 2020, supervised by Prof. [Sanjay Sarma](https://scholar.google.com/citations?user=r9UmpGUAAAAJ&hl=en). During my postdoc training, I also worked with Prof. [Jinhua Zhao](https://scholar.google.com/citations?user=bC0BOGoAAAAJ&hl=en) and Prof. [Cathy Wu](https://scholar.google.com/citations?user=wyjZbeMAAAAJ&hl=en) on autonomy and mobility systems. 
-</div>
+{: style="text-align:justify; text-justify:inter-word;"}
 
 Before returning to school to pursue a Ph.D. degree, I was with the vehicle control and autonomous driving team at Ford Motor Company (Dearborn, MI), working on the safety and cyber-security of automated vehicles. I also serves as a committee member and the paper review coordinator on the [Standing Committee on Enterprise, Systems, and Cyber Resilience (AMR40)](https://www.trbamr40.org/) at the Transportation Research Board. 
 
