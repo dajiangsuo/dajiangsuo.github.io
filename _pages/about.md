@@ -16,16 +16,16 @@ While at ASU, I was devoted to research and teaching in various IoT-related area
 
 ## Research Group
 
-<img src="{{ '/images/shaozu.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Shaozu Dingg**  PhD Student.<br>
+<img src="{{ '/images/shaozu.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Shaozu Dingg** (PhD Student)<br>
 Shaozu received his B.S. in Automation Control and M.S. in Electronic Information from Zhejiang University, Hangzhou, China. He is currently pursuing a Ph.D. in Systems Engineering at Arizona State University. His research focuses on roadside perception, multimodal sensing algorithms, and digital twin simulation for autonomous driving and intelligent transportation systems. Outside of research, he is a dedicated badminton enthusiast.
 
-<img src="{{ '/images/manny.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Manuel Garcia**  PhD Student.<br>
+<img src="{{ '/images/manny.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Manuel Garcia** (PhD Student)<br>
 Manny received his Bachelor’s degree in Engineering (Electrical Systems) from Arizona State University. He is currently pursuing a Ph.D. in Clean Energy Systems at Arizona State University. His research interests include UAV localization and millimeter wave radar sensing. Outside of academics, he enjoys fitness training and playing basketball.
 
-<img src="{{ '/images/linan.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Linan Song**  PhD Student.<br>
+<img src="{{ '/images/linan.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Linan Song** (PhD Student)<br>
 Linan received his Bachelor’s and Master’s degrees in Civil Engineering from Tsinghua University, Beijing, China. He is currently pursuing a Ph.D. in Systems Engineering at Arizona State University. Outside of academics, he enjoys traveling, board games, fitness training, and playing badminton.
 
-<img src="{{ '/images/marco.jpg' | relative_url }}" alt="Visiting PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Marco De Vincenzi**  Visiting PhD Student.<br>
+<img src="{{ '/images/marco.jpg' | relative_url }}" alt="Visiting PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Marco De Vincenzi** (Visiting PhD Student)<br>
 Marco received his Master’s degrees in Data Science and Business Informatics from the University of Pisa and in Cybersecurity and Critical Infrastructure Protection from the University of Genoa. He is currently a Ph.D. candidate in Computer Science at the University of Pisa and a researcher at the Italian National Research Council (CNR), Italy. He has been a visiting research student at the AUTO-ID Lab at MIT and at Arizona State University. His research interests include cybersecurity and privacy in Intelligent Transportation Systems, with a focus on authentication protocols, software-defined vehicles, and AI-integrated security mechanisms. Outside of academics, he enjoys sports (running and swimming overall!), traveling, and volunteering. 
 
 
