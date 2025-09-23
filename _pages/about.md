@@ -20,7 +20,7 @@ While at ASU, I was devoted to research and teaching in various IoT-related area
 
 ## Lab Members
 
-<img src="{{ '/images/shaozu.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Shaozu Dingg** (PhD Student)<br>
+<img src="{{ '/images/shaozu.jpg' | relative_url }}" alt="PhD Student" width="80" style="border-radius:50%; vertical-align:middle; margin-right:8px;"> **Shaozu Ding** (PhD Student)<br>
 Shaozu received his B.S. in Automation Control and M.S. in Electronic Information from Zhejiang University, Hangzhou, China. He is currently pursuing a Ph.D. in Systems Engineering at Arizona State University. His research focuses on roadside perception, multimodal sensing algorithms, and digital twin simulation for autonomous driving and intelligent transportation systems. Outside of research, he is a dedicated badminton enthusiast.
 {: style="text-align:justify; text-justify:inter-word;"}
 
